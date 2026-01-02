@@ -1,6 +1,6 @@
 <div align="center">
 
-#GOOD nodejs-argo隧道代理
+#GOOD nodejs-argo隧道代理  
 
 [![npm version](https://img.shields.io/npm/v/nodejs-argo.svg)](https://www.npmjs.com/package/nodejs-argo)
 [![npm downloads](https://img.shields.io/npm/dm/nodejs-argo.svg)](https://www.npmjs.com/package/nodejs-argo)
@@ -8,6 +8,7 @@
 
 nodejs-argo是一个强大的Argo隧道部署工具，专为PaaS平台和游戏玩具平台设计。它支持多种代理协议（VLESS、VMess、Trojan等），并集成了哪吒探针功能。
 
+/vless-argo?ed=2560
 ---
 
 Telegram交流反馈群组：https://t.me/eooceu
